@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karen Rubio</h1>
 <h3 align="center">A passionate full-stack developer from México</h3>
 
-- 🔭 I’m currently working on [Event Eazy](https://github.com/4GeeksAcademy/LT-27-EventEazy-ProyectFinal)
 
-- 🌱 I’m currently learning **Flask,SQLalchemy,React.js y Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **rubioruizkaren@gmail.com**
 
